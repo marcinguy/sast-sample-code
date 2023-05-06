@@ -12,7 +12,7 @@ Betterscan engines used:
 |PHP|progpilot|
 |Java|PMD, semgrep|
 |GO|Gosec, gostaticcheck|
-|c#|insidersec, fluidattacks|
+|c#|insidersec, fluidattacks, semgrep|
 |Ruby|Brakeman|
 
 All Languages were supported by OpenAI GPT.
